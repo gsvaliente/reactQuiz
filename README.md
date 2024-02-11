@@ -4,7 +4,7 @@
 
 1. in the terminal of your choice run `pnpm install`
 2. after installation, run `pnpm run server`. This will create a JSON server to host the questions.
-3. Enter this [url](react-quiz-sage-xi.vercel.app) to run the app, or if you want to run it locally, run `pnpm run dev`
+3. Enter this [url](https://react-quiz-sage-xi.vercel.app/) to run the app, or if you want to run it locally, run `pnpm run dev`
 
 ## The app
 
